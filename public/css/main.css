@@ -10,8 +10,8 @@ body {
 }
 
 .mona-images {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 10000px;
+    max-height: 1000px;
     border: 8px solid #fff;
 }
 
@@ -26,8 +26,8 @@ body {
 
 @media only screen and (max-width: 600px) {
     .june-images {
-        max-width: 340px;
-        max-height: 340px;
+        max-width: 680px;
+        max-height: 680px;
     }
 
     .haikus {
